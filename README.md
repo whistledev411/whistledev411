@@ -80,6 +80,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
 &nbsp;
+<img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=FFCB2B" alt="figma logo" title="figma" height="20" />
 <br />
 
 #### ⛓️ Web3 Tooling:
