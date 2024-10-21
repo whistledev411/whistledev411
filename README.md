@@ -1,4 +1,12 @@
 ### 👋 Hello, I'm Whistle, blockchain fullstack developer and designer.
+<p> 
+    <a href="https://discordapp.com/users/345950945517109248" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/devbeast5775" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://x.com/lucky_whistle" target="_blank"><img alt="X"
+        src="https://img.shields.io/badge/Twitter-230077B5?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
 ## 💰 Chain based
 <span><img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
