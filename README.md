@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Whistle, blockchain fullstack developer and designer.
+### 👋 Hello, I'm Whistle, blockchain fullstack developer.
 <p> 
     <a href="https://discordapp.com/users/345950945517109248" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
