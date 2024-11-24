@@ -8,6 +8,8 @@
         src="https://img.shields.io/badge/Twitter-230077B5?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=whistledev411)
+
 ## 💰 Chain based
 <span><img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
