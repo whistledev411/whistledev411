@@ -8,22 +8,28 @@
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-### Here're some products what I built.
+### 🧙‍♂️ Who am I? 🧙‍♂️
+
+- Creative Web3 Fullstack Developer
+- Robust Smart Contract Engineer
+
+### 👀 Here're some products what I built.
 
 - Public Products
   
-  * Pumpfun Sniper(within 5~7 blocks and only buy function) [Here](https://github.com/whistledev411/pumpfun-sniper)
-  * Pumpfun Bundler(with 3 wallets) [Here](https://github.com/whistledev411/pumpfun-bundler)
-  * Pumpfun Volume Bot(with single wallet and fixed buy/sell amount) [Here](https://github.com/whistledev411/pumpfun-volume-bot)
-  * CopyTrading Bot(only for pumpfun token) [Here](https://github.com/whistledev411/pumpfun-copy-trading-bot)
-  * Pumpfun Maker + Volume bot [Here](https://github.com/whistledev411/pumpfun-maker-volume-bot-beta)
-  * Raydium Volume Bot(With Single Wallet) [Here](https://github.com/whistledev411/raydium-volume-bot)
+  * 🤖 Pumpfun Sniper(within 5~7 blocks and only buy function) [Here](https://github.com/whistledev411/pumpfun-sniper) ✔
+  * 🤖 Pumpfun Bundler(with 3 wallets) [Here](https://github.com/whistledev411/pumpfun-bundler) ✔
+  * 🤖 Pumpfun Volume Bot(with single wallet and fixed buy/sell amount) [Here](https://github.com/whistledev411/pumpfun-volume-bot) ✔
+  * 🤖 CopyTrading Bot(only for pumpfun token) [Here](https://github.com/whistledev411/pumpfun-copy-trading-bot) ✔
+  * 🤖 Pumpfun Maker + Volume bot [Here](https://github.com/whistledev411/pumpfun-maker-volume-bot-beta) ✔
+  * 🤖 Raydium Volume Bot(With Single Wallet) [Here](https://github.com/whistledev411/raydium-volume-bot) ✔
     
 - Private Products
-  * Pumpfun Sniper(within 1~2 blocks and buy/sell functions, yellowstone gRPC)
-  * Pumpfun Bundler(with +27 wallets)
-  * Pumpfun Volume Bot(with multi wallets and customized buy/sell strategy)
-  * Raydium Sniper(with 1 second + BUY/SELL strategy by the TAKE PROFIT and STOP loss, advanced filters)
-  * Raydium Bundler/Volume/Maker Bot with advanced features
-  * CopyTrading Bot for any kind of tokens
-  * ...
+  * 🤖 Pumpfun Sniper(within 1~2 blocks and buy/sell functions, yellowstone gRPC) ✔
+  * 🤖 Pumpfun Bundler(with +27 wallets) ✔
+  * 🤖 Pumpfun Volume Bot(with multi wallets and customized buy/sell strategy) ✔
+  * 🤖 Raydium Sniper(with 1 second + BUY/SELL strategy by the TAKE PROFIT and STOP loss, advanced filters) ✔
+  * 🤖 Raydium Bundler/Volume/Maker Bot with advanced features ✔
+  * 🤖 CopyTrading Bot for any kind of tokens ✔
+  * 🤖 Some Bots for Meteora, Orca...
+  * Pumpfun Forking Full Project(Frontend, Backend, Smart Contract [Here](https://github.com/whistledev411/pumpfun-contract)) ✔
