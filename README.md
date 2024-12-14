@@ -27,5 +27,9 @@
   * 🤖 Raydium Sniper(with 1 second + BUY/SELL strategy by the TAKE PROFIT and STOP loss, advanced filters) ✔
   * 🤖 Raydium Bundler/Volume/Maker Bot with advanced features ✔
   * 🤖 CopyTrading Bot for any kind of tokens ✔
+  * 🤖 Solana Twitter Sniper bot ✔
   * 🤖 Some Bots for Meteora, Orca...
   * Pumpfun Forking Full Project(Frontend, Backend, Smart Contract [Here](https://github.com/whistledev411/pumpfun-contract)) ✔
+ 
+- Updating Projects
+  * 🤖 Solana Twitter Sniper Bot
