@@ -19,6 +19,7 @@
   * 🤖 CopyTrading Bot(only for pumpfun token) [Here](https://github.com/whistledev411/pumpfun-copy-trading-bot) ✔
   * 🤖 Pumpfun Maker + Volume bot [Here](https://github.com/whistledev411/pumpfun-maker-volume-bot-beta) ✔
   * 🤖 Raydium Volume Bot(With Single Wallet) [Here](https://github.com/whistledev411/raydium-volume-bot) ✔
+  * SPL token launchpad [Here](https://github.com/whistledev411/spl-token-launchpad) ✔
     
 - Private Products
   * 🤖 Pumpfun Sniper(within 1~2 blocks and buy/sell functions, yellowstone gRPC) ✔
