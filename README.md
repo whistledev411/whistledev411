@@ -34,4 +34,4 @@
   * Pumpfun Forking Full Project(Frontend, Backend, Smart Contract [Here](https://github.com/whistledev411/pumpfun-contract)) ✔
  
 - Updating Projects
-  * 🤖 Solana Twitter Sniper Bot
+  * 🤖 Solana Twitter Sniper Bot(Converting Python code to Typescript)
