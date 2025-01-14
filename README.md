@@ -37,3 +37,4 @@
  
 - Updating Projects
   * 🤖 Solana Mev Bot
+  * 🤖 Solana Arbitrage Bot
