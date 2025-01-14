@@ -13,7 +13,7 @@
 
 - Public Products
   
-  * 🤖 Pumpfun Sniper(within 5~7 blocks and only buy function) [Here](https://github.com/whistledev411/pumpfun-sniper) ✔
+  * 🤖 Pumpfun Sniper(demo version) [Here](https://github.com/whistledev411/pumpfun-sniper) ✔
   * 🤖 Pumpfun Bundler(with 3 wallets) [Here](https://github.com/whistledev411/pumpfun-bundler) ✔
   * 🤖 Pumpfun Volume Bot(with single wallet and fixed buy/sell amount) [Here](https://github.com/whistledev411/pumpfun-volume-bot) ✔
   * 🤖 CopyTrading Bot(only for pumpfun token) [Here](https://github.com/whistledev411/pumpfun-copy-trading-bot) ✔
