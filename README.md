@@ -11,6 +11,11 @@
 
 ### 👀 Here're some products what I built.
 
+- Recently Completed
+  
+  * 🤖 Multi Dex Volume Bot
+  * 🤖 Solana Twitter Sniper Bot
+
 - Public Products
   
   * 🤖 Pumpfun Sniper(demo version) [Here](https://github.com/whistledev411/pumpfun-sniper) ✔
