@@ -14,6 +14,7 @@
 - Recently Completed
   
   * 🤖 Multi Dex Volume Bot
+  * 🤖 Meteora Sniper Bot
   * 🤖 Solana Twitter Sniper Bot
 
 - Public Products
