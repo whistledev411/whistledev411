@@ -16,6 +16,11 @@
   * 🤖 Multi Dex Volume Bot
   * 🤖 Meteora Sniper Bot
   * 🤖 Solana Twitter Sniper Bot
+ 
+- Updating Projects
+  * 🤖 Solana Mev Bot
+  * 🤖 Solana Arbitrage Bot
+  * 🤖 Deepseek AI Trading Bot
 
 - Public Products
   
@@ -41,6 +46,3 @@
   * 🤖 Some Bots for Meteora, Orca...
   * Pumpfun Forking Full Project(Frontend, Backend, Smart Contract [Here](https://github.com/whistledev411/pumpfun-contract)) ✔
  
-- Updating Projects
-  * 🤖 Solana Mev Bot
-  * 🤖 Solana Arbitrage Bot
