@@ -31,7 +31,6 @@
   * 🤖 Pumpfun Maker + Volume bot [Here](https://github.com/whistledev411/pumpfun-maker-volume-bot-beta) ✔
   * 🤖 Raydium Volume Bot(With Single Wallet) [Here](https://github.com/whistledev411/raydium-volume-bot) ✔
   * 🤖 Twitter Solana Token Sniper [Here](https://github.com/whistledev411/solana-twitter-sniper) ✔
- 
   * SPL token launchpad [Here](https://github.com/whistledev411/spl-token-launchpad) ✔
     
 - Private Products
