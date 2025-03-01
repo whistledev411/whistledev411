@@ -12,7 +12,7 @@
 ### 👀 Here're some products what I built.
 
 - Recently Completed
-  
+  * 🤖 Time.fun Monitor
   * 🤖 Multi Dex Volume Bot
   * 🤖 Meteora Sniper Bot
   * 🤖 Solana Twitter Sniper Bot
